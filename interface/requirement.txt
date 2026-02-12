@@ -1,0 +1,11 @@
+streamlit
+numpy
+opencv-python-headless
+qiskit
+qiskit-aer
+pillow
+scikit-learn
+torch
+torchvision
+requests
+tqdm
